@@ -1,4 +1,4 @@
-#Combing the Backwater*
+# Combing the Backwater*
 
 ## I - High Concept
 The player explores the dilapidated outskirts of their city in hopes of solving a clod case.
